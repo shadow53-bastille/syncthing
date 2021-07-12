@@ -1,0 +1,4 @@
+INCLUDE https://github.com/shadow53-bastille/pkg-latest
+PKG syncthing
+SYSRC syncthing_enable=YES
+SERVICE syncthing start
